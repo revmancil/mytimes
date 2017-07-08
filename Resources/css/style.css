@@ -58,6 +58,11 @@ div {
   border: 1px solid black;
 }
 
-.column-large {
+.columnlarge {
   width: 630px;
+  margin: 20px;
+}
+.columnmedium {
+  width: 300px;
+  margin: 20px;
 }
